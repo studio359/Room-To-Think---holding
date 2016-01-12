@@ -1,0 +1,18 @@
+/* SPACING */
+
+.row {
+  padding-bottom: 15px;
+}
+
+.row.first {
+  padding-top: 15px;
+  padding-bottom: 0;
+}
+
+/* IMAGES */
+
+img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
